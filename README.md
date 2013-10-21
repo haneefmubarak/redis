@@ -1,3 +1,6 @@
+redis - the advanced key-value store
+====================================
+
 Where to find complete Redis documentation?
 -------------------------------------------
 
